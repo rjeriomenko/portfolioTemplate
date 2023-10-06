@@ -1,5 +1,5 @@
 import bwmap from './backgrounds/bw-map.jpeg';
-import nairobi from './backgrounds/nairobi.png';
+import verrazzano from './backgrounds/verrazzano.png';
 import whiteabstract from './backgrounds/white-abstract.png';
 import worldmap from './backgrounds/world-map.png';
 
@@ -25,16 +25,16 @@ import sendHover from './icons/sendHover.png';
 
 import css from './tech/css.png';
 import docker from './tech/docker.png';
-import figma from './tech/figma.png';
+import python from './tech/python.png';
 import git from './tech/git.png';
 import html from './tech/html.png';
 import javascript from './tech/javascript.png';
 import nodejs from './tech/nodejs.png';
 import reactjs from './tech/reactjs.png';
 import redux from './tech/redux.png';
-import tailwind from './tech/tailwind.png';
-import typescript from './tech/typescript.png';
-import graphql from './tech/graphql.png';
+import godot from './tech/godot.png';
+import aws from './tech/aws.png';
+import mongodb from './tech/mongodb.png';
 import postgresql from './tech/postgresql.png';
 import rubyrails from './tech/rubyrails.png';
 
@@ -52,7 +52,7 @@ import space from './projects/space-hub.png';
 
 export {
   bwmap,
-  nairobi,
+  verrazzano,
   whiteabstract,
   worldmap,
   logo,
@@ -74,9 +74,9 @@ export {
   sendHover,
   css,
   docker,
-  figma,
+  python,
   git,
-  graphql,
+  mongodb,
   html,
   javascript,
   nodejs,
@@ -84,8 +84,8 @@ export {
   rubyrails,
   reactjs,
   redux,
-  tailwind,
-  typescript,
+  godot,
+  aws,
   komikult,
   leaderboard,
   math,
