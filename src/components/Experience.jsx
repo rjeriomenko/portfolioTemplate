@@ -59,15 +59,12 @@ const Experience = () => {
           What I've done so far
         </p>
         <h2 className={`${styles.sectionHeadText} sm:pl-16 pl-[2rem]`}>
-          Work Experience.
+          Resume.
         </h2>
       </motion.div>
 
       <div className="mt-20 flex flex-col">
         <VerticalTimeline className="vertical-timeline-custom-line">
-          {experiences.map((experience, index) => (
-            <ExperienceCard key={index} experience={experience} />
-          ))}
           <VerticalTimelineElement
             contentStyle={{
               background: '#eaeaec',
