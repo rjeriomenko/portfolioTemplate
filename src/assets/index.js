@@ -3,16 +3,12 @@ import verrazzano from './backgrounds/verrazzano.png';
 import whiteabstract from './backgrounds/white-abstract.png';
 import worldmap from './backgrounds/world-map.png';
 
-import logo from './logo/logo-black.png';
-import logotext from './logo/logo-text-black.png';
-
 import rokas from './personal/rokas.png';
 import rokasresume from './personal/appacademyresume.pdf';
 
 import backend from './icons/backend.png';
 import game from './icons/game.png';
 import frontend from './icons/frontend.png';
-import prototyping from './icons/prototyping.png';
 import github from './icons/github.png';
 import close from './icons/close.png';
 import download from './icons/download.png';
@@ -53,14 +49,11 @@ export {
   verrazzano,
   whiteabstract,
   worldmap,
-  logo,
-  logotext,
   rokas,
   rokasresume,
   backend,
   game,
   frontend,
-  prototyping,
   github,
   close,
   download,
