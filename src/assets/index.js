@@ -7,6 +7,7 @@ import logo from './logo/logo-black.png';
 import logotext from './logo/logo-text-black.png';
 
 import rokas from './personal/rokas.png';
+import rokasresume from './personal/appacademyresume.pdf';
 
 import backend from './icons/backend.png';
 import game from './icons/game.png';
@@ -46,9 +47,6 @@ import microverse from './company/microverse.png';
 import meteor from './projects/meteor.png';
 import goalgetters from './projects/goalgetters.png';
 import outrun from './projects/outrun.png';
-import movie from './projects/movie-metro.png';
-import nyeusi from './projects/nyeusi.png';
-import space from './projects/space-hub.png';
 
 export {
   bwmap,
@@ -58,6 +56,7 @@ export {
   logo,
   logotext,
   rokas,
+  rokasresume,
   backend,
   game,
   frontend,
@@ -89,9 +88,6 @@ export {
   meteor,
   goalgetters,
   outrun,
-  movie,
-  nyeusi,
-  space,
   coverhunt,
   dcc,
   kelhel,
