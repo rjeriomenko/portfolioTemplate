@@ -9,7 +9,7 @@ import logotext from './logo/logo-text-black.png';
 import rokas from './personal/rokas.png';
 
 import backend from './icons/backend.png';
-import ux from './icons/ux.png';
+import game from './icons/game.png';
 import frontend from './icons/frontend.png';
 import prototyping from './icons/prototyping.png';
 import github from './icons/github.png';
@@ -59,7 +59,7 @@ export {
   logotext,
   rokas,
   backend,
-  ux,
+  game,
   frontend,
   prototyping,
   github,

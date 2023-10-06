@@ -1,7 +1,7 @@
 import {
   frontend,
   backend,
-  ux,
+  game,
   prototyping,
   javascript,
   typescript,
@@ -54,12 +54,8 @@ const services = [
     icon: backend,
   },
   {
-    title: 'UI/UX Design',
-    icon: ux,
-  },
-  {
-    title: 'Software Prototyping',
-    icon: prototyping,
+    title: 'Game Developer',
+    icon: game,
   },
 ];
 

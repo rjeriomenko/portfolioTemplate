@@ -9,7 +9,8 @@
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "deploy": "aws s3 sync dist/ s3://rokasjeriomenko.com --profile s3Access",
-    "prod": "npm run build && npm run deploy"
+    "prod": "npm run build && npm run deploy",
+    "bap": "npm run build && npm run preview"
   },
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
