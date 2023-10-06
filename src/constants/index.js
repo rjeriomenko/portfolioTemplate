@@ -16,11 +16,9 @@ import {
   postgresql,
   rubyrails,
   mongodb,
-  komikult,
-  leaderboard,
-  math,
-  movie,
-  nyeusi,
+  meteor,
+  goalgetters,
+  outrun,
   coverhunt,
   dcc,
   kelhel,
@@ -150,115 +148,70 @@ const experiences = [
 const projects = [
   {
     id: 'project-1',
-    name: 'KomiKult',
-    description: 'A comic characters list app that displays Marvel characters.',
+    name: 'Meteor',
+    description: 'Medium clone; a digital publishing application that allows users to create, customize, publish, and discover pieces of writing called tales.',
     tags: [
       {
-        name: 'react',
+        name: 'redux',
         color: 'blue-text-gradient',
       },
       {
-        name: 'mongodb',
+        name: 'rubyonrails',
         color: 'green-text-gradient',
       },
       {
-        name: 'tailwind',
+        name: 'postgresql',
         color: 'pink-text-gradient',
       },
     ],
-    image: komikult,
-    repo: 'https://github.com/shaqdeff/KomiKult',
-    demo: 'https://shaqdeff.github.io/KomiKult/',
+    image: meteor,
+    repo: 'https://github.com/rjeriomenko/Meteor',
+    demo: 'https://meteor.onrender.com',
   },
   {
     id: 'project-2',
-    name: 'Leaderboard',
+    name: 'Goal Getters',
     description:
-      'A leaderboard list app that displays scores submitted by different players.',
+      'Social platform for users to work alongside each other as they carve out their best selves.',
     tags: [
       {
         name: 'react',
         color: 'blue-text-gradient',
       },
       {
-        name: 'restapi',
+        name: 'redux',
         color: 'green-text-gradient',
       },
       {
-        name: 'scss',
+        name: 'mongodb',
         color: 'pink-text-gradient',
       },
     ],
-    image: leaderboard,
-    repo: 'https://github.com/shaqdeff/Leaderboard',
-    demo: 'https://shaqdeff.github.io/Leaderboard/',
+    image: goalgetters,
+    repo: 'https://github.com/rjeriomenko/GoalGetters',
+    demo: 'https://goal-getters.onrender.com/',
   },
   {
     id: 'project-3',
-    name: 'Math Magicians',
-    description: 'This is a single-page calculator app built with React',
+    name: 'outRun()',
+    description: 'Top-down 2D action-idle videogame that runs in the browser using vanilla JavaScript and Canvas API.',
     tags: [
       {
-        name: 'nextjs',
+        name: 'js',
         color: 'blue-text-gradient',
       },
       {
-        name: 'supabase',
+        name: 'css',
         color: 'green-text-gradient',
       },
       {
-        name: 'css',
+        name: 'canvas',
         color: 'pink-text-gradient',
       },
     ],
-    image: math,
-    repo: 'https://github.com/shaqdeff/Math-Magicians',
-    demo: 'https://inspiring-medovik-37d3b3.netlify.app/',
-  },
-  {
-    id: 'project-4',
-    name: 'Movie Metro',
-    description: `A single-page application that allows users to search for any movie or show's ratings and its details.`,
-    tags: [
-      {
-        name: 'nextjs',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'supabase',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'css',
-        color: 'pink-text-gradient',
-      },
-    ],
-    image: movie,
-    repo: 'https://github.com/shaqdeff/Movie-Metro',
-    demo: 'https://movie-metro.netlify.app/',
-  },
-  {
-    id: 'project-5',
-    name: 'Nyeusi Fest Site',
-    description:
-      'This is a demo concert website for a music festival called Nyeusi.',
-    tags: [
-      {
-        name: 'nextjs',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'supabase',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'css',
-        color: 'pink-text-gradient',
-      },
-    ],
-    image: nyeusi,
-    repo: 'https://github.com/shaqdeff/Nyeusi-Fest-Site',
-    demo: 'https://shaqdeff.github.io/Nyeusi-Fest-Site/',
+    image: outrun,
+    repo: 'https://github.com/rjeriomenko/outRun',
+    demo: 'https://rjeriomenko.github.io/outRun/',
   },
 ];
 

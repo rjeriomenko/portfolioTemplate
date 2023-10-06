@@ -43,9 +43,9 @@ import dcc from './company/dcc.png';
 import kelhel from './company/kelhel.png';
 import microverse from './company/microverse.png';
 
-import komikult from './projects/komikult.png';
-import leaderboard from './projects/leaderboard.png';
-import math from './projects/math-magicians.png';
+import meteor from './projects/meteor.png';
+import goalgetters from './projects/goalgetters.png';
+import outrun from './projects/outrun.png';
 import movie from './projects/movie-metro.png';
 import nyeusi from './projects/nyeusi.png';
 import space from './projects/space-hub.png';
@@ -86,9 +86,9 @@ export {
   redux,
   godot,
   aws,
-  komikult,
-  leaderboard,
-  math,
+  meteor,
+  goalgetters,
+  outrun,
   movie,
   nyeusi,
   space,
