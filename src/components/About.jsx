@@ -31,13 +31,13 @@ const About = () => {
     <div className="-mt-[6rem]">
       <motion.div variants={textVariant()}>
         <p className={styles.sectionSubText}>Introduction</p>
-        <h2 className={styles.sectionHeadText}>Overview.</h2>
+        <h2 className={styles.sectionHeadText}>“There are no shortcuts,”</h2>
       </motion.div>
 
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        “There are no shortcuts,” my rehabilitation center volunteering supervisor often told me. That used to be one of the most underappreciated lessons I received as a teenager. I have been passionate about helping others since I was a kid—this is what set me on the path to attending medical school. Every challenge I faced on that path was the catalyst for tremendous personal growth. Like a testament to my old supervisor's wisdom, I grew the most when I took my work seriously. Today, the only shortcuts I use are the built-in keyboard shortcuts VSC offers to help me code faster.
+        —my rehabilitation center volunteering supervisor often told me. That used to be one of the most underappreciated lessons I received as a teenager. I have been passionate about helping others since I was a kid—this is what set me on the path to attending medical school. Every challenge I faced on that path was the catalyst for tremendous personal growth. Like a testament to my old supervisor's wisdom, I grew the most when I took my work seriously. Today, the only shortcuts I use are the built-in keyboard shortcuts VSC offers to help me code faster.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
